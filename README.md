@@ -7,4 +7,4 @@ Requires:
 
 Works on Linux (patch for working on Windows soon)
 
-![screenshot](https://raw.githubusercontent.com/dagsoftware/dagvideoremuxer/master/dvr.png
+![alt text](https://raw.githubusercontent.com/dagsoftware/dagvideoremuxer/master/dvr.png
