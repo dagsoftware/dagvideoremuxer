@@ -6,3 +6,5 @@ Requires:
 - Qt 4 (recommend) / Qt 5 (works too)
 
 Works on Linux (patch for working on Windows soon)
+
+![screenshort](https://raw.githubusercontent.com/dagsoftware/dagvideoremuxer/branch/dvr.png
